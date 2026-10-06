@@ -24,3 +24,9 @@ OUTPUT KODE PROGRAM USER/MAHASISWA
 <img width="724" height="308" alt="image" src="https://github.com/user-attachments/assets/7a01dd01-d791-49ed-afb3-2f3a8db8ae5e" />
 
 
+
+          
+
+# FlowCHART
+<img width="1367" height="1681" alt="Untitled Diagram-Page-1 drawio" src="https://github.com/user-attachments/assets/fdab8252-3831-48b9-a387-2779d6a65213" />
+
